@@ -16,7 +16,7 @@ except ImportError:
     system('pip install websocket-client')
     from websocket import create_connection
 
-API_TOKEN = '7252751093:AAEudeFLbSbcDEH6oRGjBqpwvFVjN9ZPYB4'
+API_TOKEN = '7483442421:AAF2Q0go9Yd86qT2l067Yzo4rVk-SasEPSM'
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
